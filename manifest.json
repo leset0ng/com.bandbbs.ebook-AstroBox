@@ -1,0 +1,13 @@
+{
+    "name": "喵喵电子书同步器",
+    "icon": "icon.png",
+    "version": "1.0",
+    "description": "在AstroBox中同步喵喵电子书",
+    "author": "lesetong",
+    "website": "https://www.bandbbs.cn/resources/3439/",
+    "entry": "main.js",
+    "api_level": 1,
+    "permissions": [
+        "event","interconnect","lifecycle","filesystem","native","ui","thirdpartyapp"
+    ]
+}
